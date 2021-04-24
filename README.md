@@ -2,6 +2,7 @@
 This repository is a project which I implemented during  studied at Mahidol University.
 There are 2 types of feature which are color and texture feature.
 
+- Language: MATLAB
 
 ## Reading a data set
 
